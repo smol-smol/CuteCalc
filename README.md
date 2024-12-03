@@ -1,0 +1,2 @@
+# CuteCalc
+Calculations made aesthetic
